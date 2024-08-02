@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 👨‍💻 All of my projects are available at [kingmusab-tmt-portfolio.com](kingmusab-tmt-portfolio.com)
-
 - 💬 Ask me about **HTML5, CSS, REACT, JavaScript, NodeJS, Bootstrap, & ExpressJS**
 
 - 📫 How to reach me **musab.buraimoh@gmail.com**
