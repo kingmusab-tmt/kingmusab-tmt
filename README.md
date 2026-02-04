@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUSAB MUBARAQ MBURAIMOH</h1>
-<h3 align="center">I am an Electrical and Electronics Engineer with SSCP, CCEP, CC, CCSTN and CAP Certifications and I am Full Stack MERN AI-assisted developers (VIBE Coder)</h3>
+<h3 align="center">I am an Electrical and Electronics Engineer with SSCP, CCEP, CC, CCSTN and CAP Certifications and I am a Full Stack MERN AI-assisted developers (VIBE Coder)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingmusab-tmt&label=Profile%20views&color=0e75b6&style=flat" alt="kingmusab-tmt" /> </p>
 
