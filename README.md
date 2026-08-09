@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUSAB MUBARAQ MBURAIMOH</h1>
-<h3 align="center">I am an Electrical and Electronics Engineer with SSCP, CCEP, CC, CCSTN and CAP Certifications and I am a Full Stack MERN AI-assisted developers (VIBE Coder)</h3>
+<h3 align="center">I am an Electrical Engineer with SSCP, CCEP, CC, CCSTN and CAP Certifications and a Full Stack MERN developers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingmusab-tmt&label=Profile%20views&color=0e75b6&style=flat" alt="kingmusab-tmt" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mmmburaimoh" target="blank"><img src="https://img.shields.io/twitter/follow/kingmusab?logo=twitter&style=for-the-badge" alt="kingmusab" /></a> </p>
 
-- 🌱 I’m a **Full Stack MERN AI-assisted developers**
+- 🌱 I’m a **Full Stack MERN developers**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 💬 Ask me about **HTML5, CSS, REACT, NEXTJS JavaScript, NodeJS, Material UI, & ExpressJS**
+- 💬 Ask me about **HTML5, CSS, REACT, Next.js JavaScript, Node.js, Material UI, Talwind CSS, MongoDb & ExpressJS**
 
 - 📫 How to reach me **musab.buraimoh@gmail.com**
 
