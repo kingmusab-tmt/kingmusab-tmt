@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingmusab-tmt" alt="kingmusab-tmt" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kingmusab" target="blank"><img src="https://img.shields.io/twitter/follow/kingmusab?logo=twitter&style=for-the-badge" alt="kingmusab" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mmmburaimoh" target="blank"><img src="https://img.shields.io/twitter/follow/kingmusab?logo=twitter&style=for-the-badge" alt="kingmusab" /></a> </p>
 
 - 🌱 I’m a **Full Stack MERN AI-assisted developers**
 
@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kingmusab-tmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kingmusab-tmt" height="30" width="40" /></a>
-<a href="https://twitter.com/kingmusab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingmusab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/musab-mubaraq-mburaimoh-gmnse-80361588?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blnmtvo0ltuarq82ai%2f9g9q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musab-mubaraq-mburaimoh-gmnse-80361588?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blnmtvo0ltuarq82ai%2f9g9q%3d%3d" height="30" width="40" /></a>
+<a href="https://twitter.com/mmmburaimoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingmusab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/musab-mubaraq-mburaimoh-80361588?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blnmtvo0ltuarq82ai%2f9g9q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musab-mubaraq-mburaimoh-80361588?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3blnmtvo0ltuarq82ai%2f9g9q%3d%3d" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kingmusab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kingmusab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kingmusab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingmusab" height="30" width="40" /></a>
 </p>
